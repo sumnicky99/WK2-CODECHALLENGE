@@ -6,7 +6,7 @@ solving the week 2 challenge
 #### By *Sumeya Mohamed*
 
 ## Description
-It's a webpage that solves 3 code challenges .
+It's about solving 3 code challenges .
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
