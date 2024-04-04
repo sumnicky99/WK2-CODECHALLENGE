@@ -5,7 +5,7 @@
 #### By *Sumeya Mohamed*
 
 ## Description
-its a simple application that gives solutions to a simple code challenge giving solutions to three challenges example :
+its a simple application that gives solutions to a simple code challenge three challenges example :
 Write a function that accepts a string as input and swaps the case of each character. For example if you input 'The Quick Brown Fox' the output should be 'tHE qUICK bROWN fOX'.
 
 ## Installation
